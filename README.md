@@ -44,6 +44,9 @@ SPDX-License-Identifier: GPL-2.0-or-later
 > [!WARNING]  
 > SharpEmu is an experimental PS5 emulator developed from scratch in C#. The current focus is on accuracy and infrastructure setup rather than game-specific compatibility.
 
+> [!IMPORTANT]
+> **Official channels:** Only **sharpemu.app** and the links listed in this GitHub repository are affiliated with SharpEmu. Any other websites, accounts, or donation pages are unofficial and unauthorized.
+
 ## Info
 
 SharpEmu is an emulator project currently in its early stages of development.
