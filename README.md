@@ -64,11 +64,11 @@ Our goal is **not** to emulate PS4 games, as there is already an excellent emula
 
 |                  ASTRO's PLAYROOM                    |                 Dead Cells                    |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| ![Hades](./.github/images/astros-playroom.jpg) | ![Dead Cells](./.github/images/dead-cells.jpg) |
+| ![Astro's Playroom](./.github/images/astros-playroom.jpg) | ![Dead Cells](./.github/images/dead-cells.jpg) |
 
 |                  God of War: Sons of Sparta                    |                 Tomb Raider V Remastered                    |
 | :------------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| ![Pac-Man](./.github/images/gow-sos.jpg) | ![Tomb Raider V](./.github/images/tomb-raider-v-remastered.jpg) |
+| ![GoW SOS](./.github/images/gow-sos.jpg) | ![Tomb Raider V](./.github/images/tomb-raider-v-remastered.jpg) |
 
 ## Status
 
